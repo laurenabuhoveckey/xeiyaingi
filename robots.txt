@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oobagemute.hashtagmemory.com/sitemap.xml
